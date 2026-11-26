@@ -9,7 +9,13 @@
 
 # OVRIDE
 
-Hack your AI before someone else does.
+**Hack your AI before someone else does.**
+
+[![Stars](https://img.shields.io/github/stars/franciscogfsm/ovride?style=flat&color=E3B341)](https://github.com/franciscogfsm/ovride/stargazers)
+[![Licence](https://img.shields.io/github/license/franciscogfsm/ovride?style=flat&label=licence&color=A42E2B)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/franciscogfsm/ovride?style=flat&label=updated&color=2EA043)](https://github.com/franciscogfsm/ovride/commits)
+[![Top language](https://img.shields.io/github/languages/top/franciscogfsm/ovride?style=flat&color=0969DA)](https://github.com/franciscogfsm/ovride)
+
 
 <img src="https://img.shields.io/badge/Next.js-15-2b2f36?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/React-19-2b2f36?style=flat&logo=react&logoColor=white" alt="React">
@@ -192,3 +198,7 @@ Recorded against this tree:
 <sub>Film rendered from <a href="pitch/film/film.html"><code>pitch/film</code></a>.</sub>
 
 </div>
+
+## Licence
+
+[MIT](LICENSE) © Francisco Martins
